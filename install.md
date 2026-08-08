@@ -17,3 +17,5 @@
 - Boot Mode: UEFI
 - SATA Mode: AHCI
 - Boot Order: USB first
+
+--- GUIDE IN PROGRESS --

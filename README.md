@@ -21,10 +21,7 @@ Low-power 16TB NAS built on Zimaboard 2 with TrueNAS CE
 
 ## Services
 - Immich
-- Syncthing
-- Media Storage
-- Time Machine backups
-
-
-## Performance
-TBD
+- Jellyfin
+- paperless-ngx
+- BentoPDF
+- Tailscale
